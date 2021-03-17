@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="defaultleftmargin">8dp</dimen>
+    <dimen name="defaulttopmargin">8dp</dimen>
+    <dimen name="defaultrightmargin">8dp</dimen>
+    <dimen name="defaultbottommargin">8dp</dimen>
+</resources>

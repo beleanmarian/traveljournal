@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TravelJournal - Project</string>
+    <string name="user_name">Belean Marian-Daniel</string>
+    <string name="email_adress">beleanmarian@gmail.com</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="menu_title_home">Home</string>
+    <string name="menu_title_about_us">About us</string>
+    <string name="menu_title_contact">Contact</string>
+    <string name="home">Home</string>
+    <string name="about_us">About us</string>
+    <string name="contact">Contact me</string>
+    <string name="destination">Destination</string>
+    <string name="trip_name">Trip name</string>
+    <string name="submit"> Edit </string>
+    <string name="romaprice">850€</string>
+    <string name="city_break">City Break</string>
+    <string name="seaside">Sea Side</string>
+    <string name="mountains">Mountains</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="take_photo">Take photo</string>
+    <string name="select">Select</string>
+    <string name="gallery_photo">Gallery Photo</string>
+    <dimen name="save_button_layout_height">60dp</dimen>
+    <dimen name="save_button_margin_top">20dp</dimen>
+    <dimen name="add_trip_button_margin">5dp</dimen>
+</resources>
